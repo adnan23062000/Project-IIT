@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1554124298 source:e:\project iit\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1554122492 source:e:\project iit\iit project\structure_input.c
+	<stdio.h>
+
+1554124662 source:e:\project iit\iit project\structure.c
+	<stdio.h>
+
+1554124732 source:e:\project iit\iit project\menu.c
+	"header.h"
+
+1554124355 e:\project iit\iit project\header.h
+
+1554121824 source:e:\project iit\iit project\untitled6.c
+
+1554124240 source:e:\project iit\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
