@@ -11,13 +11,15 @@ struct student{
 void structure_output()
 {
     FILE *fp;
-    char name[]="project.txt";
-    fp=fopen(name,"r");
+
+    fp=fopen("project.txt","r");
     int i;
     for(i=0;i<5;i++)
     {
-        fscanf(fp,"%d %s %d",&data[i].name,&data[i].address,&data[i].roll,&data[i].reg_no);
-        printf("%s %s %d %d",data[i].name,data[i].address,data[i].roll,data[i].reg_no);
+        fgets(data[i].name,20,fp);
+        fgets(data[i].address,40,fp);
+        fscanf(fp,"%d %d ",&data[i].roll,&data[i].reg_no);
+        printf("\n%s\n %s\n %d\n %d\n",data[i].name,data[i].address,data[i].roll,data[i].reg_no);
     }
     fclose(fp);
 }
