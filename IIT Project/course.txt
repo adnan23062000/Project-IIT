@@ -1,0 +1,84 @@
+CSE101
+Structured Programming
+CSE102
+Discrete Mathematics
+STAT103
+Probability and Statistics for Engineers I
+MATH104
+Calculus and Analytical Geometry
+GE105
+Sociology
+SE106
+Introduction to Software Engineering
+CSE201
+Data Structure and Algorithm
+CSE211
+Computer Organization
+STAT203
+Probability and Statistics for Engineers II
+MATH204
+Ordinary Differential Equations
+GE212
+Bangladesh Studies
+SE206
+Object Oriented Concepts I
+CSE301
+Combinatorial Optimization
+SE312
+Theory of Computing
+CSE311
+Computer Networking
+MATH304
+Numerical Analysis for Engineers
+SE305
+Software Project Lab I
+SE306
+Object Oriented Concepts II
+CSE401
+Operating System and System Programming
+GE402
+Business Psychology
+CSE411
+Information Security
+CSE404
+Database Management System I
+BUS405
+Business Studies for Engineers
+SE406
+Software Requirements Specification and Analysis
+SE511
+Professional Ethics for Information Systems
+CSE502
+Web Technology
+BUS503
+Business Communications
+CSE504
+Database Management System II
+SE505
+Software Project Lab II
+SE506
+Design Patterns
+CSE601
+Distributed Systems
+SE611
+Software Metrics
+SE612
+Software Security
+CSE604
+Artificial Intelligence
+SE605
+Software Testing and Quality Assurance
+SE606
+Software Design and Analysis
+SE701
+Internship
+SE801
+Project
+SE811
+Software Maintenance
+SE803
+Software Project Management
+CSE837
+Machine Learning
+CSE823
+Embedded Systems
