@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1554124298 source:e:\project iit\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1554122492 source:e:\project iit\iit project\structure_input.c
+	<stdio.h>
+
+1554124662 source:e:\project iit\iit project\structure.c
+	<stdio.h>
+
+1554124732 source:e:\project iit\iit project\menu.c
+	"header.h"
+
+1554124355 e:\project iit\iit project\header.h
+
+1554121824 source:e:\project iit\iit project\untitled6.c
+
+1554124240 source:e:\project iit\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1555848290 source:c:\users\user\desktop\project-iit-master\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555787853 c:\users\user\desktop\project-iit-master\iit project\header.h
+
+1555847149 source:c:\users\user\desktop\project-iit-master\iit project\menu.c
+	"header.h"
+	<string.h>
+
+1554144622 source:c:\users\user\desktop\project-iit-master\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1555848310 source:c:\users\user\desktop\project-iit-master\iit project\structure.c
+	<stdio.h>
+
+1555802500 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555861444 c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\header.h
+
+1555861380 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\menu.c
+	"header.h"
+	<string.h>
+
+1555859340 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1555859555 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\structure.c
+	<stdio.h>
+	"header.h"
+
+1555861380 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\print.c
+	<stdio.h>
+	"header.h"
+
+1555860447 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\course.c
+	<stdio.h>
+	"header.h"
+
+1555863368 source:c:\users\user\desktop\iit project\course.c
+	<stdio.h>
+	"header.h"
+
+1555866633 c:\users\user\desktop\iit project\header.h
+
+1555864377 source:c:\users\user\desktop\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555864361 source:c:\users\user\desktop\iit project\menu.c
+	"header.h"
+	<string.h>
+
+1555863324 source:c:\users\user\desktop\iit project\print.c
+
+1555815574 source:c:\users\user\desktop\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1555815574 source:c:\users\user\desktop\iit project\structure.c
+	<stdio.h>
+	"header.h"
+
+1555866254 source:c:\users\user\desktop\iit project\course_menu.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
