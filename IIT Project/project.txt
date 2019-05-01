@@ -1,18 +1,128 @@
-Ahmed Adnan  
-290/3,Elephant road,Dhaka.  
+Mohsin Amin
+2324 Khilkhet,Dhaka.
+BSSE1101
+1101
+Fahim Morshed
+234 Mogbajar
+BSSE1102
+1102
+Mahtab Hossen
+chankharpul
+BSSE1103
+1103
+Md Siam
+Chankharpul
+BSSE1104
+1104
+Fahad Hossen
+nakhalpara
+BSSE1105
+1105
+Hasnain Iqbal
+2314,Kalabagan
+BSSE1106
+1106
+Samiha Noshin
+Mohdpur
+BSSE1107
+1107
+Sakib Ahmed
+Mirpur
+BSSE1108
+1108
+Jafor Mahin
+Mirpur
+BSSE1109
+1109
+Mushfiqur Rahman
+Mohdpur
+BSSE1110
+1110
+Kazi Muqtadir
+Kalabagan
+BSSE1111
+1111
+Mustahid Hasan Sakib
+Komlapur
+BSSE1112
+1112
+Md Arif Hasan
+DU campus
+BSSE1113
+1113
+Injamam ul Haq
+chankharpul
+BSSE1114
+1114
+Khairul Alam
+chankharpul
+BSSE1115
+1115
+Jubayer Hossen
+DU campus
+BSSE1116
+1116
+Md Muktar hossen
+DU campus
+BSSE1117
+1117
+Lutfar Alif
+Jatrabari
+BSSE1118
+1118
+Saad Noor
+Basabo
+BSSE1119
+1119
+Shartaj Nahid
+chankharpul
+BSSE1120
+1120
+Jitesh Sureka
+Elephant Road
+BSSE1121
+1121
+Tahmeed Mahbub
+BSSE1122
+1122
+1122
+Piash Mahmud
+DU campus
+BSSE1123
+1123
+Ashrful Sikder
+chankharpul
+BSSE1124
+1124
+Shafiq Saleheen
+Jigatola
+BSSE1125
+1125
+Dardaul Haq
+Elephant Road
+BSSE1126
+1126
+Tasmia Zerin
+Elephant Road
+BSSE1127
+1127
+Mushfiq Galib
+Kamlapur
+BSSE1128
+1128
+Rakib Tarafder
+Khilkhet
+BSSE1129
+1129
+Asifur Rahman
+Greenroad
+BSSE1130
+1130
+Ahmed Adnan
+290/3 Elephant Road,Dhaka
+BSSE1131
 1131
-101
-Asifur Rahman  
-32 Greenroad,Dhaka.  
-1103  
-102
-Ahmed Imtiaj Babu  
-32893,AJimpur  
-1120  103
-Fahim mahmud  
-sadsd,Lalbagh,Dhaka.  
-1132  104
-Kazi Raiyan Asad  
-44343,Gulshan,Dhaka.  
-1105  
-102
+Proma Chowdhury
+Baily Road
+BSSE1132
+1132

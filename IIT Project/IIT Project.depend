@@ -40,3 +40,158 @@
 1555848310 source:c:\users\user\desktop\project-iit-master\iit project\structure.c
 	<stdio.h>
 
+1555802500 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555861444 c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\header.h
+
+1555861380 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\menu.c
+	"header.h"
+	<string.h>
+
+1555859340 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1555859555 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\structure.c
+	<stdio.h>
+	"header.h"
+
+1555861380 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\print.c
+	<stdio.h>
+	"header.h"
+
+1555860447 source:c:\users\a\downloads\project-iit-master(1)\project-iit-master\iit project\course.c
+	<stdio.h>
+	"header.h"
+
+1555903604 source:c:\users\user\desktop\iit project\course.c
+	<stdio.h>
+	"header.h"
+
+1556706751 c:\users\user\desktop\iit project\header.h
+
+1556656308 source:c:\users\user\desktop\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1556657612 source:c:\users\user\desktop\iit project\menu.c
+	"header.h"
+	<string.h>
+	<stdio.h>
+
+1555903610 source:c:\users\user\desktop\iit project\print.c
+
+1555903610 source:c:\users\user\desktop\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1556470410 source:c:\users\user\desktop\iit project\structure.c
+	<stdio.h>
+	"header.h"
+
+1555903604 source:c:\users\user\desktop\iit project\course_menu.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555869807 source:c:\users\user\desktop\iit project\course_menu2.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555871906 source:c:\users\user\desktop\iit project\course_menu3.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555903604 source:c:\users\user\desktop\iit project\course_menu02.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555903604 source:c:\users\user\desktop\iit project\course_menu03.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555874040 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\course.c
+	<stdio.h>
+	"header.h"
+
+1555927717 c:\users\a\downloads\iit project-20190422t081706z-001\iit project\header.h
+
+1555874042 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\course_menu.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555874042 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\course_menu02.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555874042 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\course_menu03.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1555874040 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1555921396 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\menu.c
+	"header.h"
+	<string.h>
+	<stdio.h>
+
+1555874044 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\print.c
+
+1555874044 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\structur_input.c
+	<stdio.h>
+	"header.h"
+
+1555921409 source:c:\users\a\downloads\iit project-20190422t081706z-001\iit project\structure.c
+	<stdio.h>
+	"header.h"
+
+1556657045 source:c:\users\user\desktop\iit project\marks.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1556655319 source:c:\users\user\desktop\iit project\store_marks.c
+	<stdio.h>
+	"header.h"
+
+1556471409 source:c:\users\user\desktop\iit project\store_marks01.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1556705675 source:c:\users\user\desktop\iit project\cg.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1556709534 source:c:\users\user\desktop\iit project\show.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1556654803 source:c:\users\user\desktop\iit project\arr.c
+	<stdio.h>
+	"header.h"
+
+1556709502 source:c:\users\user\desktop\iit project\grade_01.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+

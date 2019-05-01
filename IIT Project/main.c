@@ -10,8 +10,11 @@ void structure(void);
 int main()
 {
     printf("\t\t\t\t________INSTITUTE OF INFORMATION TECHNOLOGY_________\n\t\t\t\t\t\t****WELCOME****\n\n\n\n");
-    menu();
     output();
+    arr();
     course_subjects();
+    store_marks();
+    cg();
+    menu();
     return 0;
 }

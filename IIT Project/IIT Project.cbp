@@ -31,11 +31,44 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Marks.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="course.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="course_menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="course_menu02.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="course_menu03.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="grade_01.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="header.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="show.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="store_marks.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="structur_input.c">
